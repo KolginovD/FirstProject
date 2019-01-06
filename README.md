@@ -1,1 +1,1 @@
-# Studying
+# First project for studying purposes.
